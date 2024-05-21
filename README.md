@@ -1,7 +1,7 @@
 # AWS ARCHITECTURE 
 
 ## Abstraction  
-![aws_abstractions]()
+![AWS Infrastructure Architecture](https://github.com/vps-victor/aws/assets/105178616/b2d22240-d572-44e2-8183-2e60f24635cd)
 
 **`NETWORK`**
 - Types of Cloud `Private` (own), `Public` (services), `Hybrid` (mix)
@@ -57,6 +57,8 @@
 - [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/) (MLS) - MLS-C01
 </details>
 
+# COMPARISON
+[Latance/Ping Test - Cloud Providers per Regions](https://cloudpingtest.com/)
 
 <details><summary></summary><br>
 <details>
